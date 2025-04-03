@@ -50,12 +50,14 @@ I'm open to Software Engineer roles, please get in touch at hemanthkoppaka1628@g
 
 ---
 
-<div>
-  <a href="https://github.com/hemanthkoppaka">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthh05&layout=compact&langs_count=10&theme=dracula"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api
-username=hemanthh05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs&hide_rank=true"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ <div>
+  <a href="https://github.com/hemanthh05">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthh05&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanthh05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs&hide_rank=true"/>
+</div> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 
 ---
 
