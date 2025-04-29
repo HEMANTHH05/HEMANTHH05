@@ -1,15 +1,10 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-HEMANTHH05/your-repo-name/main/banner.png" alt="Hemanth Koppaka Banner">
-</p>
-
 # 👋 Hi there, I'm Hemanth Koppaka
 
 I'm a Computer Science graduate student at [UMass Lowell](https://www.uml.edu/sciences/computer-science/programs/masters/).  
 I'm open to **Software Engineer**, **Data Analyst**, and **ML Engineer** roles — feel free to reach out at **hemanthkoppaka1628@gmail.com**.
 
 🌟 I’m actively seeking **full-time opportunities**.  
-- 🌱 Currently learning **Terraform**, **Jenkins**, and **Ansible**.  
+- 🌱 Currently learning **Langchain**, and **More AI tools**.  
 - ⚡ Preparing for **AWS Developer Associate Certification**.  
 - 🔥 Working on **cloud pipelines, AI models, and real-time analytics**.
 
@@ -91,5 +86,4 @@ I'm open to **Software Engineer**, **Data Analyst**, and **ML Engineer** roles �
 
 ---
 
-# 🔥 Let's build something amazing together!
 
