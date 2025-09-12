@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Hemanth Koppaka
 
 I'm a Computer Science graduate student at [UMass Lowell](https://www.uml.edu/sciences/computer-science/programs/masters/).  
-I'm open to **Software Engineer**, **Data Analyst**, and **ML Engineer** roles — feel free to reach out at **hemanthkoppaka1628@gmail.com**.
+I'm open to **Software Engineer** roles 
 
 🌟 I’m actively seeking **full-time opportunities**.  
 - 🌱 Currently learning **Langchain**, and **More AI tools**.  
