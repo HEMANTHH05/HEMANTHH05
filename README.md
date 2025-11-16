@@ -10,25 +10,19 @@ I'm open to **Software Engineer** roles
 ---
 ## 🎓 Certifications
 
-- 🟦 **Azure AI Fundamentals (AI-900)** — _Microsoft_  
+-  **Azure AI Fundamentals (AI-900)** — _Microsoft_  
   ▸ [Verify](https://www.credly.com/badges/ef407089-a225-45f7-a012-5c138e46e9c3/linked_in_profile) 
-
-- 🟦 **Azure Fundamentals (AZ-900)** — _Microsoft_  
+- **Azure Fundamentals (AZ-900)** — _Microsoft_  
   ▸ [Verify](https://www.credly.com/badges/d7e1994d-4b5d-47a2-a392-a5ff860d7e4c/linked_in_profile) 
-
-- 🟧 **Generative AI Fundamentals** — _Databricks_  
+-  **Generative AI Fundamentals** — _Databricks_  
   ▸ [Verify](https://credentials.databricks.com/28a7c0ee-5a1b-4d0e-afcd-06337f4fb632#acc.mnz5logX)
-
-- 🟨 **AWS Solutions Architect – Associate (SAA-C03)** — _AWS_  
+-  **AWS Solutions Architect – Associate (SAA-C03)** — _AWS_  
   ▸ [Verify](https://www.credly.com/badges/c637f7ac-86de-49b3-97f7-f14ca35674e6/public_url) 
-
-- 🌐 **Multicloud Network Associate**  
+-  **Multicloud Network Associate**  
   ▸ [Verify](https://www.credly.com/badges/a2911a4d-b6bf-4d11-860e-e21d17218735/linked_in_profile)
-
-- 🟨 **AWS Cloud Practitioner Essentials** — _AWS_  
+- **AWS Cloud Practitioner Essentials** — _AWS_  
   ▸ [Verify](https://www.coursera.org/account/accomplishments/verify/DFGRQJ2N2GG3)
-
-- 🤖 **Advanced RPA Professional (v11.0)** — _Automation Anywhere_  
+- **Advanced RPA Professional (v11.0)** — _Automation Anywhere_  
   ▸ [Verify](https://certificates.automationanywhere.com/d00fdb94-2125-4def-b9c6-a8167079e9a2#acc.R5FzTY1X)
 
 ## 🚀 Skills
